@@ -1,4 +1,4 @@
-# project5-shopping-bag-finished
+# Basic shopping card template
 
 ## Project setup
 ```
