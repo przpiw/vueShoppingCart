@@ -1,4 +1,4 @@
-# Basic shopping card template
+## Basic shopping card template with Vue
 
 ## Project setup
 ```
